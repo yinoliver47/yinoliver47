@@ -1,5 +1,3 @@
-# 👋 Hi, I’m Oliver Yin
-
 💻 **Languages**  
 TypeScript · JavaScript · Python · SQL
 
