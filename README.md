@@ -17,8 +17,3 @@ AWS · Docker · Kubernetes · Terraform
 🗄 **Datastores**  
 PostgreSQL · Redis · MongoDB · Elasticsearch
 
----
-
-## 📫 Let’s Connect
-
-📧 yinoliver47@gmail.com  
