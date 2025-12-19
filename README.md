@@ -1,1 +1,50 @@
-My name is Oliver Yin. I am a senior software engineer who has 9+ years of experience in software development.
+# 👋 Hi, I’m Oliver Yin
+
+🚀 **Senior Software Engineer** designing scalable, cloud-native systems.  
+🧠 Focused on **system design**, **event-driven architectures**, and **reliable distributed platforms**.
+
+---
+
+## 🧠 System Design & Architecture
+
+🧩 **Architecture Patterns**  
+Microservices · Event-Driven Systems · CQRS · Domain-Driven Design
+
+📡 **Streaming & Messaging**  
+Kafka · Kafka Streams · Event Pipelines · Exactly-once Processing
+
+⚙️ **Backend Systems**  
+High-throughput APIs · Async Processing · Data Pipelines · Caching
+
+---
+
+## 🛠 Tech Stack
+
+💻 **Languages**  
+TypeScript · JavaScript · Python · SQL
+
+⚙️ **Backend & APIs**  
+Node.js · FastAPI · REST · GraphQL
+
+🎨 **Frontend**  
+React · Next.js
+
+☁️ **Cloud & Infrastructure**  
+AWS · Docker · Kubernetes · Terraform
+
+🗄 **Datastores**  
+PostgreSQL · Redis · MongoDB · Elasticsearch
+
+---
+
+## 🎯 Current Focus
+
+- Designing resilient distributed systems
+- Building Kafka-based data pipelines
+- Improving observability and system safety
+
+---
+
+## 📫 Let’s Connect
+
+📧 yinoliver47@gmail.com  
