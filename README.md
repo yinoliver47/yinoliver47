@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Oliver Yin
 
-🚀 **Senior Software Engineer** designing scalable, cloud-native systems.  
-🧠 Focused on **system design**, **event-driven architectures**, and **reliable distributed platforms**.
-
----
-
 ## 🧠 System Design & Architecture
 
 🧩 **Architecture Patterns**  
@@ -34,14 +29,6 @@ AWS · Docker · Kubernetes · Terraform
 
 🗄 **Datastores**  
 PostgreSQL · Redis · MongoDB · Elasticsearch
-
----
-
-## 🎯 Current Focus
-
-- Designing resilient distributed systems
-- Building Kafka-based data pipelines
-- Improving observability and system safety
 
 ---
 
