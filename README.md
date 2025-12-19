@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Oliver Yin
 
-## 🛠 Tech Stack
-
 💻 **Languages**  
 TypeScript · JavaScript · Python · SQL
 
@@ -16,4 +14,3 @@ AWS · Docker · Kubernetes · Terraform
 
 🗄 **Datastores**  
 PostgreSQL · Redis · MongoDB · Elasticsearch
-
