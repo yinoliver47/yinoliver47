@@ -1,18 +1,5 @@
 # 👋 Hi, I’m Oliver Yin
 
-## 🧠 System Design & Architecture
-
-🧩 **Architecture Patterns**  
-Microservices · Event-Driven Systems · CQRS · Domain-Driven Design
-
-📡 **Streaming & Messaging**  
-Kafka · Kafka Streams · Event Pipelines · Exactly-once Processing
-
-⚙️ **Backend Systems**  
-High-throughput APIs · Async Processing · Data Pipelines · Caching
-
----
-
 ## 🛠 Tech Stack
 
 💻 **Languages**  
